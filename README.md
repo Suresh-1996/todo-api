@@ -56,11 +56,11 @@ CREATE TABLE tasks (
 - Install Dependencies
 
 ```bash
-  node index.js
+  npm install
 ```
 
 - Start the Development Server
 
 ```bash
-  npm start
+  node index.js
 ```
