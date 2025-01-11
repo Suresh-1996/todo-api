@@ -49,14 +49,14 @@ CREATE TABLE tasks (
 
 ```bash
  git clone <repository-url>
- cd backend
+ cd todo-api
 
 ```
 
 - Install Dependencies
 
 ```bash
-  npm install
+  node index.js
 ```
 
 - Start the Development Server
